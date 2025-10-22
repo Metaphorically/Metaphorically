@@ -6,7 +6,7 @@
 ---
 
 ## 🔧 Tech Stack
-💻 **Languages:** C, C++, Python, HTML, CSS, JavaScript, Typescript, React JS, Node JS, Electron JS, MangoDB <br>
+💻 **Languages:** C, C++, Python, HTML, CSS, JavaScript, Typescript, React JS, Node JS, Angular, MongoDB <br>
 ⚙️ **Tools:** Git, GitHub, VS Code, Code::Blocks, Arduino, Postman, Proteus, LTspice, Keil, Matlab, codeSYS, AutoCAD, SolidWorks <br>
 ⚡ **Hardware:** Arduino, Raspberry Pi, PIC Microcontrollers, DC/AC Motor Control Circuits, Control and Embedded Systems 
 
